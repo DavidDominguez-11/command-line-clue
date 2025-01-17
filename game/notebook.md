@@ -2,8 +2,8 @@
 
 ## Suspects
 - [ ] The Teacher
-- [ ] The Shopkeeper
-- [ ] The Doctor
+- [x] The Shopkeeper
+- [x] The Doctor
 
 ## Weapons
 - [x] Magnifying Glass
@@ -12,6 +12,8 @@
 
 ## Notes
 *Use this space to record your findings and deductions...*
+
+fue en livingroom
 
 pista1- ir a libreria
 no es the journalist
