@@ -6,8 +6,8 @@
 - [ ] The Doctor
 
 ## Weapons
-- [ ] Magnifying Glass
-- [ ] Walking Stick
+- [x] Magnifying Glass
+- [x] Walking Stick
 - [ ] Silver Watch
 
 ## Notes
